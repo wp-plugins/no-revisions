@@ -23,6 +23,8 @@ Unzip it in your plugin directory.
 
 To turn off revisions, activate the plugin.  To turn them back on, deactivate the plugin.
 
+If you have any trouble after upgrading, try deactivating it, and reactivating it again.
+
 
 == License ==
 

@@ -2,10 +2,10 @@
 Contributors: jrrl
 Tags: revisions
 Requires at least: 2.6
-Tested up to: 2.6
+Tested up to: 2.7.1
 Stable tag: trunk
 
-This plugin disables WordPress 2.6's post revision system.
+This plugin disables the post revision system in WordPress 2.6+.
 
 
 == Description ==
